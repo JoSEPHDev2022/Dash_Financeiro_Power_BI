@@ -1,2 +1,1 @@
-# Dash_Financeiro_Power_BI
-Um projeto de ETL feito completamente pelo POWER BI, onde coletei os dados das ações de diferentes empresas Big Tech, transformei os dados utilizando Power Query e linguagem DAX e carreguei os dados em reports paginados do Power Bi.
+<kbd><img src="https://github.com/JoSEPHDev2022/Dash_Financeiro_Power_BI/blob/main/stock_images/stocks_bg.jpg?raw=true" width=1000 height=350></kbd>
