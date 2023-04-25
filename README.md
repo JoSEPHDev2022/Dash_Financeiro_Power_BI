@@ -6,8 +6,6 @@
     </p>
 </h1>
 
----
-
 ## Objetivo 🎯
 
 Nesse projeto, realizei a coleta de dados financeiros de quatro gigantes do mundo tech:
@@ -56,13 +54,10 @@ O objetivo central desse projeto foi de desenvolver minhas **capacidades de extr
 
 <img src="https://github.com/JoSEPHDev2022/Dash_Financeiro_Power_BI/blob/main/dashboard_prints/full_report.png?raw=true" width=1500 height=450>
 
---- 
-
 ## Tecnologias Utilizadas 💻
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
 ## Conteúdos do Repositório 📁
 
 Neste repositório, você vai encontrar:
@@ -74,8 +69,6 @@ Neste repositório, você vai encontrar:
 > Uma pasta chamada **stocks_data** que contém os arquivos CSV dos dados estraídos do site do mercado financeiro.
 >
 > Um arquivo chamado **dash_portfolio.pbix** que é justamente o arquivo do Dashboard.
-
----
 
 ## Contatos 📧
 
